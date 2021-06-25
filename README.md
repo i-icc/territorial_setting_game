@@ -20,10 +20,10 @@ $ cd territorial_setting_game/main
 - Next, please set up a client to play the game.
   - `python cui_client.py`
   - The screen will be in standby mode until another connection is made.  
-  ```
+```
   あなたはプレイヤー 0 です。
   対戦相手を待っています...
-  ```
+```
 - I'll set up another client to fight against.
   - `python cui_client.py`
 - Then the number of times you can act and your mark will be displayed.
@@ -31,7 +31,7 @@ $ cd territorial_setting_game/main
 - ⛔ cannot be passed through.
 - When you move, the field will be painted.
 - Let's paint more fields!
-  ```
+```
 移動できる回数 : 20
 あなたは先手(1P)です。
 you are 🥵
@@ -83,9 +83,9 @@ you are 🥵
 ⛔⬜⛔⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟥⬜⛔
 ⛔⬜⬜⬜⛔⬜⬜⬜⬜⬜⛔⬜⬜⬜⛔⬜⬜⬜⬜⛔⬜⬜⬜⛔
 ⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔
-  ```
+```
 
-  ```
+```
 相手の行動を待っています。
 ⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔⛔
 ⛔⬜⬜⬜⛔🟦🟦🟦🟦🟥🟥🟥🟥🟥🟥🟥🟥🟥⛔⬜⬜⬜⬜⛔
@@ -141,4 +141,4 @@ Score
 1P : 2P
 61 : 61
 you draw
-  ```
+```
